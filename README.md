@@ -2,4 +2,4 @@
 
 Desenvolvimento de um conversor analógico-digital para medição de temperatura, implementado em C para o microcontrolador PIC18F4550.
 
-Desenvolvido utilizando o compilador MikroC.
+Desenvolvido utilizando o compilador MikroC e o ambiente de simulação SimulIDE.
